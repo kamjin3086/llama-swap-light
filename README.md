@@ -1,3 +1,10 @@
+> **llama-swap-light**
+> 
+> The following enhancements and modifications are included:
+> - The configuration file can be edited and saved through the interface. This makes it easy to edit YAML and comes with built-in YAML format checking.
+
+---
+
 ![llama-swap header image](docs/assets/hero3.webp)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mostlygeek/llama-swap/total)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/mostlygeek/llama-swap/go-ci.yml)
